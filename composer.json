@@ -1,5 +1,5 @@
 {
-  "name": "sweetstack/async-telescope",
+  "name": "emiliosh/async-telescope",
   "description": "Asynchronous database storage driver for Laravel Telescope",
   "keywords": [
     "laravel",
@@ -16,8 +16,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Sergio Neskodi",
-      "email": "serhiy@sweetstackdigital.com"
+      "name": "Emilio Sosa",
+      "email": "emiliosh@gmail.com.com"
     }
   ],
   "autoload": {
